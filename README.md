@@ -1,4 +1,4 @@
- ## Oi pessoal, meu nome é Leandro<br>
+ ## Olá meu nome é Leandro<br>
    <div>
   <a href="https://github.com/o-leandro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=o-leandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,5 +14,4 @@
   <a href="https://www.linkedin.com/in/leandro-s-59674690/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   
   ###
-    
-  ![Snake animation](https://github.com/o-leandro/o-leandro/blob/output/github-contribution-grid-snake.svg)
+ 
