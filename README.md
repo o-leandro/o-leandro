@@ -1,8 +1,9 @@
  ## Olá meu nome é Leandro<br>
-   <div>
-   Sou Bacharel em Sistemas de Informação pela Faculdade Maurício de Nassau e Técnico em Informática pelo CEEP-MPP, tive a experiência de estagiar e trabalhar como Assistente de TI em um orgão público por quase 3 anos, sendo 9 meses como estagiário e 2 anos como contratado. Atualmente tenho focado meus estudos no desenvolvimento front-end a fim de conquistar uma oportunidade de trabalho.<br>
-   </div>
-   <div>
+  <div align="justify">
+   Sou Bacharel em Sistemas de Informação pela Faculdade Maurício de Nassau e Técnico em Informática pelo CEEP-MPP, tive a experiência de estagiar e trabalhar como Assistente de TI em um orgão público por quase 3 anos, sendo 9 meses como estagiário e 2 anos como contratado. Atualmente tenho focado meus estudos no desenvolvimento front-end a fim de conquistar uma oportunidade de trabalho.
+  <br><br>
+  </div>
+  <div>
   <a href="https://github.com/o-leandro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=o-leandro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-leandro&layout=compact&langs_count=16&theme=react"/>
