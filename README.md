@@ -1,7 +1,7 @@
  ## Olá meu nome é Leandro<br>
   <div align="justify">
    Formado em Sistemas de Informação pela Faculdade Maurício de Nassau e Técnico em Informática pelo CEEP-MPP, tive a experiência de estagiar e posteriormente trabalhar como Assistente de TI em um orgão público por quase 3 anos, sendo 9 meses como estagiário e 2 anos como contratado. Atualmente tenho focado meus estudos no desenvolvimento front-end a fim de conquistar uma oportunidade de trabalho.<br>
- Estudando: HTML5, CSS3 e Javascript.
+ Atualmente tenho experiência com: HTML5, CSS3, JavaScript, Scrum
 
   <br><br>
   </div>
