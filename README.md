@@ -5,9 +5,9 @@
   <br><br>
   </div>
   <div>
-  <a href="https://github.com/o-leandro">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-leandro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-leandro&layout=compact&langs_count=16&theme=react"/>
+    <a href="https://github.com/o-leandro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-leandro&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-leandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div>
   <br><br>
  <a href = "mailto: leandroti097@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
