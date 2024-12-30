@@ -1,6 +1,5 @@
   <div align="justify">
    Formado em Sistemas de Informação pela Faculdade Maurício de Nassau e Técnico em Informática pelo CEEP-MPP, tive a experiência de estagiar e posteriormente trabalhar como Assistente de TI em um orgão público por quase 3 anos, sendo 9 meses como estagiário e 2 anos como contratado. Atualmente tenho focado meus estudos em flutter.<br>
- Atualmente tenho experiência com: Flutter | Dart.
 
   <br><br>
   </div>
